@@ -28,10 +28,10 @@
     background-color: red;
     position: relative;
     float: right;
-    width: 140px;
-    height: 140px;
-    margin-top: 25px;
-    margin-right: 60px;
+    width: 350px;
+    height: 350px;
+    margin-top: 120px;
+    margin-right: 100px;
     border: 10px solid #f8f8f8;
     border-radius: 100%;
 }
@@ -46,10 +46,10 @@
     margin: 0;
     width: fit-content;
     text-align: center;
-    font-size: large;
+    font-size: 300%;
     font-family: 'Cherry Bomb One', cursive;
     color: whitesmoke;
-    -webkit-text-stroke-width: 1px ;
+    -webkit-text-stroke-width: 2px ;
     -webkit-text-stroke-color: black;
     /* backdrop-filter: blur(10px);
     border-radius: 30%; */
@@ -70,10 +70,10 @@
     /* font-family: 'Saira Stencil One', cursive; */
     /* font-family: 'Roboto Slab', serif; */
     font-family: 'Reem Kufi Fun', sans-serif;
-    font-size: xx-large;
+    font-size: 500%;
     color: #f1faee;
     text-align: center;
-    -webkit-text-stroke-width: 1px ;
+    -webkit-text-stroke-width: 2px ;
     -webkit-text-stroke-color: black; */
     /* text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
     /* text-shadow: 1px 1px 1px black ; */
